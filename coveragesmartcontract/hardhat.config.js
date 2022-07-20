@@ -12,7 +12,7 @@ module.exports = {
     },
     kovan: {
       url: "https://kovan.infura.io/v3/74e3648e6d5f4de7a2d7e6e78f1a3581", //Input your Kovan node URL here
-      accounts: ["7cbb7bb0b48e2e30d6f1bb8a73d4ea0bf88e727618c17172d3dee4e2f47cb7c2"] //Input your Kovan account here
+      accounts: [PRIVATE_KEY ] //Input your Kovan account here
     }
   },
    solidity: {
